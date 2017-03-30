@@ -15,7 +15,7 @@ example
 />
 ```
 # demo image
-![demo image](https://imagebin.ca/v/3HLBrfwdjYE3)
+![demo image](https://cdn.pbrd.co/images/PDu9XUtss.png)
 
 # Properties:
 
