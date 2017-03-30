@@ -27,3 +27,5 @@ onTagChange | function | callback function(tagName, tags, action)
 alertOnRemove | boolean | whether you want show alert message or not.
 hideTextField | boolean | whether to show tageditor textfeild to add more tags or not
 readOnly | boolean | whether tags are read only or can have remove facility
+
+creator - Yogesh Manohar Mandaokar(Software Developer)
