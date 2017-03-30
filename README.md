@@ -17,7 +17,7 @@ example
 
 # Properties:
 
-property | accept | description
+property | type | description
 ----------------- | ----------------- | ---------------------------------------
 tags | array | array of strings or component which you want to show in tag
 setByTagsOnly | boolean | whether you want to set only by tags or you want to add some tags itsef too.
