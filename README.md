@@ -14,6 +14,8 @@ example
      hideTextField={true}
 />
 ```
+# demo image
+![demo image](https://drive.google.com/open?id=0B1Wh7CAybVgzY1NmTnY1MG5ZOTA)
 
 # Properties:
 
