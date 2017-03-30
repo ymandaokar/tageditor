@@ -3,7 +3,7 @@
 example
 ```js
 <TagEditor
-            tags={childComponent}
+            tags={stringArray}
             setByTagsOnly={true}
             onTagTouch={this.handleTagTouch}
             tagBackgroundColor={Colors.blueGrey300}
