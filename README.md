@@ -18,6 +18,7 @@ example
 # Properties:
 
 property | accept | description
+----------------- | ----------------- | ---------------------------------------
 tags | array | array of strings or component which you want to show in tag
 setByTagsOnly | boolean | whether you want to set only by tags or you want to add some tags itsef too.
 onTagTouch | function | callback function(item) where item is component of each tag
